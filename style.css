@@ -1,0 +1,36 @@
+body {
+  background-color: black;
+  back
+}
+h1 {
+  color: white;
+  background-color: aqua;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-weight: bolder;
+  border-top-style: dotted;
+  border-bottom-style: dotted;
+  border-left-style: double;
+  border: left width 90px;
+  border-left-color: darkblue;
+  
+}
+p {
+  color: greenyellow;
+
+}
+#p2 {
+  color: red;
+  text-decoration: underline;
+  border-style: groove;
+  border-width: 10px;
+  border-color: gold;
+  border-radius: 15px;
+  padding: 6px;
+}
+#p3 {
+  color: magenta;
+}
+.p4 {
+  color: white;
+  background-color: blue;
+}
